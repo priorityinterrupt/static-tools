@@ -1,0 +1,7 @@
+CHANGELOG:
+  
+  Version 0.1
+
+  5/18/11 - Initial build. The goal of this build was to compile
+  chkrootkit and all the binaires it depends on to run. 
+

@@ -1,0 +1,20 @@
+PROJECT: static-tools 
+VERSION: 0.1
+CREATED BY: Justin Derleth <justin@techsage.net>
+
+DESCRIPTION: 
+
+These are static binaries compiled by myself for personal use when auditing
+potentially compromised servers. While I have no intention of supporting
+these tools in any sort of offical capacity I am more than happy to recieve
+any comments or suggestions if you do use them. These can be sent to
+justin@techsage.net
+
+Everything here is open source and the use of each tool is restricted
+only by the respective license of each tool. Minor modifications have
+been made when nessarry to allow for a succesfull compile. Those changed
+will be noted.   
+
+EXAMPLE
+
+./static-tools/chkrootkit-0.49/chkrootkit -p ../bin
